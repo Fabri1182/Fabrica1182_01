@@ -1,13 +1,6 @@
 {
     "image": "mcr.microsoft.com/devcontainers/universal:2",
-    "recommendations": [
-        "vscode-icons-team.vscode-icons",
-        "ecmel.vscode-html-css",
-        "ms-vscode.vscode-typescript-next",
-        "ritwickdey.LiveServer",
-        "ms-azuretools.vscode-docker",
-        "ms-python.python"
-    ],
+   
     "files.associations": {
         "*.html": "html",
         "*.js": "javascript",
