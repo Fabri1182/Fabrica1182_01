@@ -1,4 +1,3 @@
-code --install-extension Extensiones instaladas en Codespaces: didactic lamp:
 code --install-extension davidanson.vscode-markdownlint
 code --install-extension eamodio.gitlens
 code --install-extension ecmel.vscode-html-css
