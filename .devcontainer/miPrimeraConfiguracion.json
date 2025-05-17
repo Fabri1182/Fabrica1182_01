@@ -1,1 +1,23 @@
-{"image":"mcr.microsoft.com/devcontainers/universal:2"}
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "recommendations": [
+        "vscode-icons-team.vscode-icons",
+        "ecmel.vscode-html-css",
+        "ms-vscode.vscode-typescript-next",
+        "ritwickdey.LiveServer",
+        "ms-azuretools.vscode-docker",
+        "ms-python.python"
+    ],
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascript",
+        "*.py": "python",
+        "*.json": "json"
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "python.pythonPath": "python3"
+}
